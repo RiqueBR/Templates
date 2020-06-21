@@ -8,6 +8,7 @@ Find here a wide array of boiler templates for starting a project.
  - Linter
  - CSS Pre-processors
  - Compilers
+ - Unit Testing template
 
 
 
